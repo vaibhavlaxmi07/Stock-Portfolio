@@ -24,7 +24,7 @@ Technologies Used
 - APIs: Alpha Vantage or Yahoo Finance for retrieving stock data
 
 Installation and Setup
-1. Clone the repository using git clone https://github.com/your-username/stock-portfolio.git
+1. Clone the repository using git clone https://github.com/vaibhavlaxmi07/Stock-Portfolio.git
 2. Install dependencies using pip install -r requirements.txt
 3. Set up the database using python manage.py migrate
 4. Run the application using python manage.py runserver
